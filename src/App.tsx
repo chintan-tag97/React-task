@@ -7,6 +7,9 @@ import Task from './Task.tsx';
 import Taskfunc from './Taskfunc.tsx';
 import Taskclick from './Taskclick.tsx';
 import Dop from './Dop.tsx';
+import Condition from './Condition.tsx';
+import Reactform from './Reactform.tsx';
+
 
 
 function App() {
@@ -17,7 +20,9 @@ function App() {
      {/* <Task/>
      <Taskfunc/>
      <Taskclick/> */}
-     <Dop/> 
+     {/* <Dop/>  */}
+     {/* <Condition/> */}
+     <Reactform/>
     </div>
   );
 }
