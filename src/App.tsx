@@ -8,7 +8,7 @@ import Taskfunc from './Taskfunc.tsx';
 import Taskclick from './Taskclick.tsx';
 import Dop from './Dop.tsx';
 import Condition from './Condition.tsx';
-import Reactform from './Reactform.tsx';
+
 
 
 
@@ -21,8 +21,8 @@ function App() {
      <Taskfunc/>
      <Taskclick/> */}
      {/* <Dop/>  */}
-     {/* <Condition/> */}
-     <Reactform/>
+     <Condition/>
+    
     </div>
   );
 }
